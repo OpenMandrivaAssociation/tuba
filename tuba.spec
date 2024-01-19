@@ -7,7 +7,7 @@ Group:          Internet
 License:        GPL-3.0-only
 URL:            https://github.com/GeopJr/Tuba
 Source:         %{url}/archive/v%{version}/Tuba-%{version}.tar.gz
-BuildRequires:  appstream-utils
+BuildRequires:  appstream-util
 BuildRequires:  desktop-file-utils
 BuildRequires:  meson
 BuildRequires:  vala
