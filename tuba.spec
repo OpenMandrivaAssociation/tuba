@@ -2,7 +2,7 @@
 Name:           tuba
 Version:        0.6.2
 Release:        1
-Summary:        Browse the Fediverse
+Summary:        Browse the Fediverse - mastodon client
 Group:          Internet
 License:        GPL-3.0-only
 URL:            https://github.com/GeopJr/Tuba
