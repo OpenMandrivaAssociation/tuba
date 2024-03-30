@@ -48,3 +48,6 @@ platforms like Mastodon, GoToSocial, Akkoma & more!
 %{_datadir}/glib-2.0/schemas/%{appid}.gschema.xml
 %{_datadir}/icons/hicolor/*/apps/%{appid}*.svg
 %{_datadir}/metainfo/%{appid}.metainfo.xml
+%{_datadir}/gtksourceview-5/language-specs/
+%{_datadir}/gtksourceview-5/styles/
+%{_mandir}/man1/dev.geopjr.Tuba.1.*
