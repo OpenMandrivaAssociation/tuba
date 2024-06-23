@@ -1,6 +1,6 @@
 %define appid   dev.geopjr.Tuba
 Name:           tuba
-Version:        0.8.0
+Version:        0.8.1
 Release:        1
 Summary:        Browse the Fediverse - mastodon client
 Group:          Internet
