@@ -1,6 +1,6 @@
 %define appid   dev.geopjr.Tuba
 Name:           tuba
-Version:        0.8.4
+Version:        0.9.0
 Release:        1
 Summary:        Browse the Fediverse - mastodon client
 Group:          Internet
@@ -22,6 +22,14 @@ BuildRequires:  pkgconfig(libsoup-3.0)
 BuildRequires:  pkgconfig(libspelling-1)
 BuildRequires:  pkgconfig(libwebp)
 BuildRequires:  pkgconfig(libxml-2.0)
+BuildRequires:  pkgconfig(gstreamer-1.0)
+BuildRequires:  pkgconfig(gstreamer-plugins-base-1.0)
+BuildRequires:  gstreamer1.0-plugins-good
+
+Requires: gstreamer1.0-plugins-base
+Requires: gstreamer1.0-plugins-good
+Requires: gstreamer1.0-plugins-bad
+Requires: gstreamer1.0-plugins-ugly
 
 %description
 Explore the federated social web with Tuba for GNOME. Stay connected to your
