@@ -26,6 +26,7 @@ BuildRequires:  pkgconfig(libxml-2.0)
 BuildRequires:  pkgconfig(gstreamer-1.0)
 BuildRequires:  pkgconfig(gstreamer-plugins-base-1.0)
 BuildRequires:  gstreamer1.0-plugins-good
+BuildRequires:  pkgconfig(webkitgtk-6.0)
 
 Requires: gstreamer1.0-plugins-base
 Requires: gstreamer1.0-plugins-good
