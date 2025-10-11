@@ -11,6 +11,7 @@ BuildRequires:  appstream-util
 BuildRequires:  desktop-file-utils
 BuildRequires:  meson
 BuildRequires:  vala
+BuildRequires:  pkgconfig(clapper-0.0)
 BuildRequires:  pkgconfig(gee-0.8)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  pkgconfig(gtk4)
