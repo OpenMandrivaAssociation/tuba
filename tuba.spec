@@ -57,6 +57,7 @@ platforms like Mastodon, GoToSocial, Akkoma & more!
 %{_bindir}/%{appid}
 %{_datadir}/applications/%{appid}.desktop
 %{_datadir}/glib-2.0/schemas/%{appid}.gschema.xml
+%{_datadir}/dbus-1/services/dev.geopjr.Tuba.service
 %{_datadir}/icons/hicolor/*/apps/%{appid}*.svg
 %{_datadir}/metainfo/%{appid}.metainfo.xml
 #{_datadir}/gtksourceview-5/language-specs/
