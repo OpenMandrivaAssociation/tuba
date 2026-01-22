@@ -1,7 +1,7 @@
 %define appid   dev.geopjr.Tuba
 Name:           tuba
 Version:        0.10.3
-Release:        1
+Release:        2
 Summary:        Browse the Fediverse - mastodon client
 Group:          Internet
 License:        GPL-3.0-only
