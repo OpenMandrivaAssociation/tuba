@@ -1,7 +1,7 @@
 %define appid   dev.geopjr.Tuba
 Name:           tuba
 Version:        0.10.3
-Release:        2
+Release:        3
 Summary:        Browse the Fediverse - mastodon client
 Group:          Internet
 License:        GPL-3.0-only
@@ -13,7 +13,7 @@ BuildRequires:  meson
 BuildRequires:  vala
 BuildRequires:  pkgconfig(clapper-0.0)
 BuildRequires:  pkgconfig(gee-0.8)
-BuildRequires:  pkgconfig(gexiv2)
+BuildRequires:  pkgconfig(gexiv2-0.16)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(gtksourceview-5)
